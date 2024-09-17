@@ -16,6 +16,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div>11</div>
+        <div>12</div>
         <h1 className={styles.title}>
           Z-2 Function E-1 Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
