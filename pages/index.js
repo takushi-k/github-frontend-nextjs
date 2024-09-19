@@ -18,7 +18,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Z-2 Function E-1 Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
-        z3 z3-2
+        z3 z3-2 Z4
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
